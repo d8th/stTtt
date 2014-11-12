@@ -1,0 +1,3 @@
+state
+availableMoves
+	^ #(0)
