@@ -5,5 +5,6 @@
 		"testAvailableMovesForCompleteBoard" : "DanielIrvine 11/13/2014 08:37",
 		"testAvailableMovesForEmptyBoard" : "DanielIrvine 11/13/2014 10:23",
 		"testDoesNotPlayMoveInAlreadyPlayedSquare" : "DanielIrvine 11/13/2014 12:00",
+		"testFirstPlayerIsX" : "DanielIrvine 11/13/2014 12:29",
 		"testHasBoardThatIsSquareOfSize" : "DanielIrvine 11/13/2014 10:56",
 		"testPlaysMoveInEmptySquare" : "DanielIrvine 11/13/2014 11:40" } }
