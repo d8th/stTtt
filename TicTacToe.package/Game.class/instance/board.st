@@ -1,0 +1,3 @@
+accessors
+board
+	^ board.

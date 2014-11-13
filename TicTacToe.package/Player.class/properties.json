@@ -1,0 +1,15 @@
+{
+	"category" : "TicTacToe",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"mark",
+		"nextMove" ],
+	"name" : "Player",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

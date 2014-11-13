@@ -1,0 +1,8 @@
+{
+	"class" : {
+		"withPlayerX:andPlayerO:" : "DanielIrvine 11/13/2014 15:48" },
+	"instance" : {
+		"board" : "DanielIrvine 11/13/2014 15:54",
+		"initializeWithPlayerX:andPlayerO:" : "DanielIrvine 11/13/2014 15:49",
+		"nextPlayer" : "DanielIrvine 11/13/2014 15:47",
+		"playNextMove" : "DanielIrvine 11/13/2014 15:46" } }

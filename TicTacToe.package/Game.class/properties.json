@@ -1,0 +1,16 @@
+{
+	"category" : "TicTacToe",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"board",
+		"x",
+		"o" ],
+	"name" : "Game",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
