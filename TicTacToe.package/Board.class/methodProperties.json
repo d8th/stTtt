@@ -6,6 +6,8 @@
 	"instance" : {
 		"availableMoves" : "DanielIrvine 11/13/2014 10:56",
 		"initializeWithSize:andState:" : "DanielIrvine 11/13/2014 09:13",
+		"isDrawn" : "DanielIrvine 11/13/2014 12:48",
+		"lastPlayer" : "DanielIrvine 11/13/2014 12:40",
 		"nextPlayer" : "DanielIrvine 11/13/2014 12:35",
 		"numPlayedMoves" : "DanielIrvine 11/13/2014 12:36",
 		"play:inSquare:" : "DanielIrvine 11/13/2014 12:08",

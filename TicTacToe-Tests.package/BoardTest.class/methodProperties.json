@@ -5,7 +5,11 @@
 		"testAvailableMovesForCompleteBoard" : "DanielIrvine 11/13/2014 08:37",
 		"testAvailableMovesForEmptyBoard" : "DanielIrvine 11/13/2014 10:23",
 		"testDoesNotPlayMoveInAlreadyPlayedSquare" : "DanielIrvine 11/13/2014 12:00",
+		"testDrawnWhenFinishedAndNotWon" : "DanielIrvine 11/13/2014 12:51",
 		"testFirstPlayerIsX" : "DanielIrvine 11/13/2014 12:29",
 		"testHasBoardThatIsSquareOfSize" : "DanielIrvine 11/13/2014 10:56",
+		"testLastPlayerIsOWhenOHasPlayed" : "DanielIrvine 11/13/2014 12:40",
+		"testLastPlayerIsXWhenXHasPlayed" : "DanielIrvine 11/13/2014 12:40",
+		"testNotDrawnWhenNotFinished" : "DanielIrvine 11/13/2014 12:50",
 		"testPlaysMoveInEmptySquare" : "DanielIrvine 11/13/2014 11:40",
 		"testSecondPlayerIsO" : "DanielIrvine 11/13/2014 12:32" } }
