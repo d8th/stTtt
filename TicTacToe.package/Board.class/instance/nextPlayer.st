@@ -1,3 +1,5 @@
 state
 nextPlayer
-	^ $X.
+	^ (self numPlayedMoves even)
+		ifTrue: [ $X ]
+		ifFalse: [ $O ].

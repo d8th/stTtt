@@ -7,4 +7,5 @@
 		"testDoesNotPlayMoveInAlreadyPlayedSquare" : "DanielIrvine 11/13/2014 12:00",
 		"testFirstPlayerIsX" : "DanielIrvine 11/13/2014 12:29",
 		"testHasBoardThatIsSquareOfSize" : "DanielIrvine 11/13/2014 10:56",
-		"testPlaysMoveInEmptySquare" : "DanielIrvine 11/13/2014 11:40" } }
+		"testPlaysMoveInEmptySquare" : "DanielIrvine 11/13/2014 11:40",
+		"testSecondPlayerIsO" : "DanielIrvine 11/13/2014 12:32" } }
