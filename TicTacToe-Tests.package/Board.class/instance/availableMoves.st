@@ -1,3 +1,0 @@
-state
-availableMoves
-	^ #(0)

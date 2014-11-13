@@ -2,4 +2,6 @@
 	"class" : {
 		 },
 	"instance" : {
-		"testAvailableMovesForEmptyBoard" : "DanielIrvine 11/12/2014 18:13" } }
+		"testAvailableMovesForCompleteBoard" : "DanielIrvine 11/13/2014 08:37",
+		"testAvailableMovesForEmptyBoard" : "DanielIrvine 11/13/2014 10:23",
+		"testHasBoardThatIsSquareOfSize" : "DanielIrvine 11/13/2014 10:56" } }

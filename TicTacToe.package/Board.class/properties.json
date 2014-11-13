@@ -1,12 +1,14 @@
 {
-	"category" : "TicTacToe-Tests",
+	"category" : "TicTacToe",
 	"classinstvars" : [
-		 ],
+		"size",
+		"state" ],
 	"classvars" : [
 		 ],
 	"commentStamp" : "<historical>",
 	"instvars" : [
-		 ],
+		"size",
+		"state" ],
 	"name" : "Board",
 	"pools" : [
 		 ],
