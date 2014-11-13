@@ -15,4 +15,5 @@
 		"testNotDrawnWhenNotFinished" : "DanielIrvine 11/13/2014 12:50",
 		"testPlaysMoveInEmptySquare" : "DanielIrvine 11/13/2014 11:40",
 		"testSecondPlayerIsO" : "DanielIrvine 11/13/2014 12:32",
+		"testWinForColumn" : "DanielIrvine 11/13/2014 14:00",
 		"testWinForRow" : "DanielIrvine 11/13/2014 12:57" } }
