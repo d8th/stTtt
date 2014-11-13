@@ -1,7 +1,8 @@
 status
 statusText
-	^ (board isWon)
-		ifTrue: [ (board lastPlayer asString), ' wins!' ]
-		ifFalse: [ (board isDrawn)
-			ifTrue: [ 'It''s a draw!' ]
-			ifFalse: [ (board nextPlayer asString) , '''s turn, please choose a square:' ]].
+	(board isWon)
+		ifTrue: [ ^ (board lastPlayer asString), ' wins!' ].
+	(board isDrawn)
+		ifTrue:  [^ 'It''s a draw!' ].
+		
+	^ (board nextPlayer asString) , '''s turn, please choose a square:' .
