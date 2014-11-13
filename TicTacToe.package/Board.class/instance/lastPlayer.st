@@ -1,5 +1,5 @@
 state
 lastPlayer
-	^ (self nextPlayer = $X)
-		ifTrue: [ $O ]
-		ifFalse: [ $X ].
+	^ (self nextPlayer = (Board x))
+		ifTrue: [ Board o ]
+		ifFalse: [ Board x ].

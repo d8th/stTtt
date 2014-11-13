@@ -1,10 +1,8 @@
-as yet unclassified
+play
 play: mark inSquare: square
 	|newState|
-	newState := ''.
+	newState := String empty.
 	(1 to: state size) do: [ :thisSquare | 
-		(thisSquare = square and: (state at: thisSquare) = $-)
-			ifTrue: [ newState := newState, mark asString ]
-			ifFalse: [ newState := newState, (state at: thisSquare) asString ].
-			].
+		newState := newState , (self chooseExisting:thisSquare orMark:mark ifEmptySquareAt:square) asString
+	].
 	^ Board representedBy: newState.

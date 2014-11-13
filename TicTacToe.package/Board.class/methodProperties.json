@@ -1,11 +1,15 @@
 {
 	"class" : {
 		"distinct:" : "DanielIrvine 11/13/2014 13:28",
-		"initialStateOfSize:" : "DanielIrvine 11/13/2014 10:51",
+		"initialStateOfSize:" : "DanielIrvine 11/13/2014 15:08",
+		"o" : "DanielIrvine 11/13/2014 15:06",
 		"ofSize:" : "DanielIrvine 11/13/2014 10:49",
-		"representedBy:" : "DanielIrvine 11/13/2014 09:43" },
+		"representedBy:" : "DanielIrvine 11/13/2014 09:43",
+		"unplayed" : "DanielIrvine 11/13/2014 15:05",
+		"x" : "DanielIrvine 11/13/2014 15:06" },
 	"instance" : {
-		"availableMoves" : "DanielIrvine 11/13/2014 10:56",
+		"availableMoves" : "DanielIrvine 11/13/2014 15:10",
+		"chooseExisting:orMark:ifEmptySquareAt:" : "DanielIrvine 11/13/2014 15:23",
 		"initializeWithSize:andState:" : "DanielIrvine 11/13/2014 09:13",
 		"isAnyColumnWon" : "DanielIrvine 11/13/2014 14:05",
 		"isAnyRowWon" : "DanielIrvine 11/13/2014 13:36",
@@ -13,10 +17,10 @@
 		"isDrawn" : "DanielIrvine 11/13/2014 13:49",
 		"isEitherDiagonalWon" : "DanielIrvine 11/13/2014 15:00",
 		"isRowWon:" : "DanielIrvine 11/13/2014 13:27",
-		"isWinInSquares:" : "DanielIrvine 11/13/2014 13:42",
+		"isWinInSquares:" : "DanielIrvine 11/13/2014 15:10",
 		"isWon" : "DanielIrvine 11/13/2014 14:54",
-		"lastPlayer" : "DanielIrvine 11/13/2014 12:40",
-		"nextPlayer" : "DanielIrvine 11/13/2014 12:35",
+		"lastPlayer" : "DanielIrvine 11/13/2014 15:12",
+		"nextPlayer" : "DanielIrvine 11/13/2014 15:12",
 		"numPlayedMoves" : "DanielIrvine 11/13/2014 12:36",
-		"play:inSquare:" : "DanielIrvine 11/13/2014 12:08",
+		"play:inSquare:" : "DanielIrvine 11/13/2014 15:23",
 		"state" : "DanielIrvine 11/13/2014 10:50" } }

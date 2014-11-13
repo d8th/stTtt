@@ -1,6 +1,6 @@
 private - initialization
 initialStateOfSize: s
 	| initial |
-	initial := ''.
-	(s*s) timesRepeat: [ initial := initial , '-' ].
+	initial := String empty.
+	(s*s) timesRepeat: [ initial := initial , (self unplayed asString) ].
 	^ initial.
