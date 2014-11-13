@@ -16,4 +16,7 @@
 		"testPlaysMoveInEmptySquare" : "DanielIrvine 11/13/2014 11:40",
 		"testSecondPlayerIsO" : "DanielIrvine 11/13/2014 12:32",
 		"testWinForColumn" : "DanielIrvine 11/13/2014 14:00",
-		"testWinForRow" : "DanielIrvine 11/13/2014 12:57" } }
+		"testWinForO" : "DanielIrvine 11/13/2014 14:52",
+		"testWinForRow" : "DanielIrvine 11/13/2014 12:57",
+		"testWinForTopLeftToBottomRightDiagonal" : "DanielIrvine 11/13/2014 15:01",
+		"testWinForTopRightToBottomLeftDiagonal" : "DanielIrvine 11/13/2014 15:00" } }

@@ -1,3 +1,3 @@
 state
 isWon
-	^ (self isAnyRowWon) or: (self isAnyColumnWon).
+	^ (self isAnyRowWon) or: (self isAnyColumnWon or: (self isEitherDiagonalWon)).
