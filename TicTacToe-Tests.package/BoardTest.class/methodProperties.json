@@ -4,4 +4,6 @@
 	"instance" : {
 		"testAvailableMovesForCompleteBoard" : "DanielIrvine 11/13/2014 08:37",
 		"testAvailableMovesForEmptyBoard" : "DanielIrvine 11/13/2014 10:23",
-		"testHasBoardThatIsSquareOfSize" : "DanielIrvine 11/13/2014 10:56" } }
+		"testDoesNotPlayMoveInAlreadyPlayedSquare" : "DanielIrvine 11/13/2014 12:00",
+		"testHasBoardThatIsSquareOfSize" : "DanielIrvine 11/13/2014 10:56",
+		"testPlaysMoveInEmptySquare" : "DanielIrvine 11/13/2014 11:40" } }

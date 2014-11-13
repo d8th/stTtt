@@ -6,4 +6,5 @@
 	"instance" : {
 		"availableMoves" : "DanielIrvine 11/13/2014 10:56",
 		"initializeWithSize:andState:" : "DanielIrvine 11/13/2014 09:13",
+		"play:inSquare:" : "DanielIrvine 11/13/2014 12:08",
 		"state" : "DanielIrvine 11/13/2014 10:50" } }
