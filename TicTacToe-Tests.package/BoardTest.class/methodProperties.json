@@ -11,6 +11,7 @@
 		"testIsNotWonForIncompleteRow" : "DanielIrvine 11/13/2014 13:28",
 		"testLastPlayerIsOWhenOHasPlayed" : "DanielIrvine 11/13/2014 12:40",
 		"testLastPlayerIsXWhenXHasPlayed" : "DanielIrvine 11/13/2014 12:40",
+		"testNotDrawnWhenFinishedButWon" : "DanielIrvine 11/13/2014 13:48",
 		"testNotDrawnWhenNotFinished" : "DanielIrvine 11/13/2014 12:50",
 		"testPlaysMoveInEmptySquare" : "DanielIrvine 11/13/2014 11:40",
 		"testSecondPlayerIsO" : "DanielIrvine 11/13/2014 12:32",

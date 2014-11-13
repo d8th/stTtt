@@ -1,3 +1,3 @@
 state
 isDrawn
-	^ self availableMoves size = 0.
+	^ (self availableMoves size = 0) and: (self isWon not).
