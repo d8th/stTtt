@@ -1,4 +1,4 @@
-as yet unclassified
+private - initialization
 initialStateOfSize: s
 	| initial |
 	initial := ''.

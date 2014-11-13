@@ -1,12 +1,17 @@
 {
 	"class" : {
+		"distinct:" : "DanielIrvine 11/13/2014 13:28",
 		"initialStateOfSize:" : "DanielIrvine 11/13/2014 10:51",
 		"ofSize:" : "DanielIrvine 11/13/2014 10:49",
 		"representedBy:" : "DanielIrvine 11/13/2014 09:43" },
 	"instance" : {
 		"availableMoves" : "DanielIrvine 11/13/2014 10:56",
 		"initializeWithSize:andState:" : "DanielIrvine 11/13/2014 09:13",
+		"isAnyRowWon" : "DanielIrvine 11/13/2014 13:36",
 		"isDrawn" : "DanielIrvine 11/13/2014 12:48",
+		"isRowWon:" : "DanielIrvine 11/13/2014 13:27",
+		"isWinInSquares:" : "DanielIrvine 11/13/2014 13:42",
+		"isWon" : "DanielIrvine 11/13/2014 13:21",
 		"lastPlayer" : "DanielIrvine 11/13/2014 12:40",
 		"nextPlayer" : "DanielIrvine 11/13/2014 12:35",
 		"numPlayedMoves" : "DanielIrvine 11/13/2014 12:36",

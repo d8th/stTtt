@@ -1,0 +1,3 @@
+state
+isWon
+	^ self isAnyRowWon.

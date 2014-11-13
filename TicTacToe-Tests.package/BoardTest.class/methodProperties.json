@@ -8,8 +8,10 @@
 		"testDrawnWhenFinishedAndNotWon" : "DanielIrvine 11/13/2014 12:51",
 		"testFirstPlayerIsX" : "DanielIrvine 11/13/2014 12:29",
 		"testHasBoardThatIsSquareOfSize" : "DanielIrvine 11/13/2014 10:56",
+		"testIsNotWonForIncompleteRow" : "DanielIrvine 11/13/2014 13:28",
 		"testLastPlayerIsOWhenOHasPlayed" : "DanielIrvine 11/13/2014 12:40",
 		"testLastPlayerIsXWhenXHasPlayed" : "DanielIrvine 11/13/2014 12:40",
 		"testNotDrawnWhenNotFinished" : "DanielIrvine 11/13/2014 12:50",
 		"testPlaysMoveInEmptySquare" : "DanielIrvine 11/13/2014 11:40",
-		"testSecondPlayerIsO" : "DanielIrvine 11/13/2014 12:32" } }
+		"testSecondPlayerIsO" : "DanielIrvine 11/13/2014 12:32",
+		"testWinForRow" : "DanielIrvine 11/13/2014 12:57" } }
