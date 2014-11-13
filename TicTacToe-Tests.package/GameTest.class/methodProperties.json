@@ -2,8 +2,14 @@
 	"class" : {
 		 },
 	"instance" : {
-		"setUp" : "DanielIrvine 11/13/2014 16:57",
-		"testOnlyPlaysIfMoveIsSet" : "DanielIrvine 11/13/2014 17:06",
-		"testPlaysBothXAndOMoves" : "DanielIrvine 11/13/2014 17:11",
-		"testPlaysNextMove" : "DanielIrvine 11/13/2014 17:11",
-		"testPlaysUntilFinish" : "DanielIrvine 11/13/2014 17:11" } }
+		"initializeEmptyGame" : "DanielIrvine 11/13/2014 17:50",
+		"initializeInProgressGame:" : "DanielIrvine 11/13/2014 18:10",
+		"setUp" : "DanielIrvine 11/13/2014 17:48",
+		"testOnlyPlaysIfMoveIsSet" : "DanielIrvine 11/13/2014 17:52",
+		"testPlaysBothXAndOMoves" : "DanielIrvine 11/13/2014 17:52",
+		"testPlaysNextMove" : "DanielIrvine 11/13/2014 17:52",
+		"testPlaysUntilFinishAndNotBeyond" : "DanielIrvine 11/13/2014 17:53",
+		"testShowsDraw" : "DanielIrvine 11/13/2014 18:15",
+		"testShowsOToPlay" : "DanielIrvine 11/13/2014 17:51",
+		"testShowsXToPlay" : "DanielIrvine 11/13/2014 17:51",
+		"testShowsXWins" : "DanielIrvine 11/13/2014 17:54" } }

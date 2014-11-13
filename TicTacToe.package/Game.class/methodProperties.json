@@ -1,9 +1,14 @@
 {
 	"class" : {
-		"withPlayerX:andPlayerO:" : "DanielIrvine 11/13/2014 15:48" },
+		"withPlayerX:andPlayerO:" : "DanielIrvine 11/13/2014 18:09",
+		"withPlayerX:andPlayerO:andBoard:" : "DanielIrvine 11/13/2014 18:09" },
 	"instance" : {
 		"board" : "DanielIrvine 11/13/2014 15:54",
+		"finished" : "DanielIrvine 11/13/2014 17:26",
 		"initializeWithPlayerX:andPlayerO:" : "DanielIrvine 11/13/2014 15:49",
+		"initializeWithPlayerX:andPlayerO:andBoard:" : "DanielIrvine 11/13/2014 18:08",
 		"nextPlayer" : "DanielIrvine 11/13/2014 15:47",
-		"playAllAvailableMoves" : "DanielIrvine 11/13/2014 17:21",
-		"playNextMove" : "DanielIrvine 11/13/2014 17:21" } }
+		"playAllAvailableMoves" : "DanielIrvine 11/13/2014 17:26",
+		"playNextMove" : "DanielIrvine 11/13/2014 17:21",
+		"setBoard:" : "DanielIrvine 11/13/2014 18:03",
+		"statusText" : "DanielIrvine 11/13/2014 18:16" } }
