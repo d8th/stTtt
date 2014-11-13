@@ -1,5 +1,6 @@
-as yet unclassified
+play
 playNextMove
 	| player |
 	player := self nextPlayer.
-	board := board play: (player mark) inSquare: (player nextMove).
+	(player hasAvailableMove)
+		ifTrue: [ board := board play: (player mark) inSquare: (player provideNextMove)].

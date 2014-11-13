@@ -2,4 +2,8 @@
 	"class" : {
 		 },
 	"instance" : {
-		"testPlaysNextMove" : "DanielIrvine 11/13/2014 15:36" } }
+		"setUp" : "DanielIrvine 11/13/2014 16:57",
+		"testOnlyPlaysIfMoveIsSet" : "DanielIrvine 11/13/2014 17:06",
+		"testPlaysBothXAndOMoves" : "DanielIrvine 11/13/2014 17:11",
+		"testPlaysNextMove" : "DanielIrvine 11/13/2014 17:11",
+		"testPlaysUntilFinish" : "DanielIrvine 11/13/2014 17:11" } }

@@ -1,4 +1,4 @@
-as yet unclassified
+initialization
 initializeWithPlayerX: anX andPlayerO: anO
 	x := anX.
 	o := anO.

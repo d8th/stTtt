@@ -1,4 +1,4 @@
-as yet unclassified
+private 
 nextPlayer
 	^ (board nextPlayer = (x mark))
 		ifTrue: [ x ]

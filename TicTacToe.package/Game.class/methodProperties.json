@@ -5,4 +5,5 @@
 		"board" : "DanielIrvine 11/13/2014 15:54",
 		"initializeWithPlayerX:andPlayerO:" : "DanielIrvine 11/13/2014 15:49",
 		"nextPlayer" : "DanielIrvine 11/13/2014 15:47",
-		"playNextMove" : "DanielIrvine 11/13/2014 15:46" } }
+		"playAllAvailableMoves" : "DanielIrvine 11/13/2014 17:21",
+		"playNextMove" : "DanielIrvine 11/13/2014 17:21" } }

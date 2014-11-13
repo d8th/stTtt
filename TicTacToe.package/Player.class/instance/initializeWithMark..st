@@ -1,3 +1,4 @@
 as yet unclassified
 initializeWithMark:aMark
-	mark := aMark. 
+	mark := aMark.
+	nextMoves := LinkedList new. 

@@ -1,0 +1,3 @@
+accessors
+provideNextMove
+	^ nextMoves removeFirst.
