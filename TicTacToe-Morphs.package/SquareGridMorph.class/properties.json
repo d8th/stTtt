@@ -1,0 +1,14 @@
+{
+	"category" : "TicTacToe-Morphs",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"size" ],
+	"name" : "SquareGridMorph",
+	"pools" : [
+		 ],
+	"super" : "Morph",
+	"type" : "normal" }
