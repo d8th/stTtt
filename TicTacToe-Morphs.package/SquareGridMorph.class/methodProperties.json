@@ -2,6 +2,10 @@
 	"class" : {
 		"withSize:" : "DanielIrvine 11/14/2014 15:54" },
 	"instance" : {
-		"addMorph:" : "DanielIrvine 11/14/2014 16:58",
-		"initialize" : "DanielIrvine 11/14/2014 15:58",
-		"initializeWithSize:" : "DanielIrvine 11/14/2014 15:58" } }
+		"addGridCellMorph:" : "DanielIrvine 11/14/2014 17:23",
+		"fractionalCellSize" : "DanielIrvine 11/14/2014 17:07",
+		"initialize" : "DanielIrvine 11/14/2014 20:39",
+		"initializeWithSize:" : "DanielIrvine 11/14/2014 20:15",
+		"nextLayoutFrame" : "DanielIrvine 11/14/2014 17:09",
+		"nextLeftPosition" : "DanielIrvine 11/14/2014 17:07",
+		"nextTopPosition" : "DanielIrvine 11/14/2014 17:08" } }

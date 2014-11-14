@@ -1,3 +1,4 @@
-as yet unclassified
+initialization
 initialize
-	^ super initialize.
+	super initialize.
+	self layoutPolicy: ProportionalLayout new.

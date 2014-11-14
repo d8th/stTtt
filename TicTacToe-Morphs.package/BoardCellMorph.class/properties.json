@@ -1,0 +1,16 @@
+{
+	"category" : "TicTacToe-Morphs",
+	"classinstvars" : [
+		"labelFont" ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"label",
+		"square",
+		"game" ],
+	"name" : "BoardCellMorph",
+	"pools" : [
+		 ],
+	"super" : "BorderedMorph",
+	"type" : "normal" }
