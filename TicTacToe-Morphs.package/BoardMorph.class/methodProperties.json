@@ -2,7 +2,9 @@
 	"class" : {
 		"withGame:" : "DanielIrvine 11/14/2014 21:07" },
 	"instance" : {
-		"initializeSquareMorphForSquare:inGame:" : "DanielIrvine 11/15/2014 10:57",
-		"initializeWithGame:" : "DanielIrvine 11/15/2014 11:02",
-		"updateSquare:withMark:" : "DanielIrvine 11/15/2014 10:57",
-		"updateSquares" : "DanielIrvine 11/15/2014 11:02" } }
+		"initializeGrid" : "DanielIrvine 11/15/2014 11:51",
+		"initializeStatusText" : "DanielIrvine 11/15/2014 11:40",
+		"initializeWithGame:" : "DanielIrvine 11/15/2014 11:45",
+		"update" : "DanielIrvine 11/15/2014 11:42",
+		"updateSquares" : "DanielIrvine 11/15/2014 11:45",
+		"updateStatusText" : "DanielIrvine 11/15/2014 11:43" } }

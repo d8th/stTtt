@@ -1,11 +1,11 @@
 {
 	"class" : {
-		"withSize:" : "DanielIrvine 11/14/2014 15:54" },
+		"withSize:andMorphs:" : "DanielIrvine 11/15/2014 11:51" },
 	"instance" : {
 		"addGridCellMorph:" : "DanielIrvine 11/14/2014 17:23",
 		"fractionalCellSize" : "DanielIrvine 11/14/2014 17:07",
 		"initialize" : "DanielIrvine 11/14/2014 20:39",
-		"initializeWithSize:" : "DanielIrvine 11/14/2014 20:15",
+		"initializeWithSize:andMorphs:" : "DanielIrvine 11/15/2014 11:49",
 		"nextLayoutFrame" : "DanielIrvine 11/14/2014 17:09",
 		"nextLeftPosition" : "DanielIrvine 11/14/2014 17:07",
 		"nextTopPosition" : "DanielIrvine 11/14/2014 17:08" } }

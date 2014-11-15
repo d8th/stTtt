@@ -4,11 +4,11 @@
 		 ],
 	"classvars" : [
 		 ],
-	"commentStamp" : "",
+	"commentStamp" : "<historical>",
 	"instvars" : [
 		"game",
 		"squareMorphs",
-		"grid" ],
+		"statusText" ],
 	"name" : "BoardMorph",
 	"pools" : [
 		 ],

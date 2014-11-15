@@ -1,4 +1,4 @@
 as yet unclassified
 setUp
 	x := Player withMark: $X.
-	o := Player withMark: $O
+	o := Player withMark: $O.

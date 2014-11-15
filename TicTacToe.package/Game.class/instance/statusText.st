@@ -5,4 +5,4 @@ statusText
 	(board isDrawn)
 		ifTrue:  [^ 'It''s a draw!' ].
 		
-	^ (board nextPlayer asString) , '''s turn, please choose a square:' .
+	^ (board nextPlayer asString) , '''s turn, please choose a square' .

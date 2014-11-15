@@ -1,5 +1,5 @@
-as yet unclassified
+private
 updateSquares
 	game allSquares do: [  :square |
 		((game markAt: square) ~= Board unplayed) 
-			ifTrue: [ self updateSquare: square withMark: (game markAt: square)]].
+			ifTrue: [ (squareMorphs at: square) setMark: (game markAt: square)]].

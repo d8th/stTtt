@@ -2,7 +2,7 @@
 	"class" : {
 		 },
 	"instance" : {
-		"setUp" : "DanielIrvine 11/14/2014 21:00",
+		"setUp" : "DanielIrvine 11/15/2014 11:07",
 		"testBoardCellDisplaysCellMark" : "DanielIrvine 11/15/2014 10:45",
-		"testDoesNotMakePlayIsSquareIsAlreadyPlayed" : "DanielIrvine 11/15/2014 10:30",
+		"testDoesNotMakePlayIsSquareIsAlreadyPlayed" : "DanielIrvine 11/15/2014 11:07",
 		"testMakesPlayIfSquareIsEmpty" : "DanielIrvine 11/15/2014 10:29" } }

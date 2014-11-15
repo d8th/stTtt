@@ -2,8 +2,8 @@
 	"class" : {
 		 },
 	"instance" : {
-		"setUp" : "DanielIrvine 11/14/2014 16:26",
-		"testDrawsEachElement" : "DanielIrvine 11/14/2014 17:23",
+		"setUp" : "DanielIrvine 11/15/2014 11:56",
+		"testDrawsEachElement" : "DanielIrvine 11/15/2014 11:56",
 		"testEachElementHasProportionateSize" : "DanielIrvine 11/14/2014 17:24",
 		"testEachElementHasSpaceFill" : "DanielIrvine 11/14/2014 17:26",
 		"testHasProportionalLayout" : "DanielIrvine 11/14/2014 17:02" } }

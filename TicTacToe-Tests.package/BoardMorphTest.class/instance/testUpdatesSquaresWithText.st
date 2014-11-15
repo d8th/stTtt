@@ -2,5 +2,5 @@ as yet unclassified
 testUpdatesSquaresWithText
 	x addNextMove: 4.
 	game playNextMove.
-	morph updateSquares.
-	self assert: (morph allStringsAfter: nil) = #('X' 'O' 'X') asOrderedCollection.
+	morph update.
+	self assert: ((morph allStringsAfter: nil) occurrencesOf: 'X') = 2.

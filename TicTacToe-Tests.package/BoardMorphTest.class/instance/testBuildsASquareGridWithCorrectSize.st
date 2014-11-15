@@ -1,5 +1,6 @@
 as yet unclassified
 testBuildsASquareGridWithCorrectSize
-	self assert: morph submorphs size = 1.
-	self assert: (morph submorphs first isKindOf: SquareGridMorph).
-	self assert: morph submorphs first submorphs size = game allSquares size.
+	| gridMorph |
+	gridMorph := morph submorphs select: [ :each | each isKindOf: SquareGridMorph ].
+	self assert: gridMorph size = 1.
+	self assert: gridMorph first submorphs size = game allSquares size.
