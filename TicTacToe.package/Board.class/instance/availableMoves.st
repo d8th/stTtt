@@ -1,3 +1,3 @@
 state
 availableMoves
-	^ (1 to: state size) select: [ :square | (state at: square) = Board unplayed]
+	^ (self allSquares) select: [ :square | (self markAt: square) = Board unplayed]

@@ -1,0 +1,3 @@
+conversion
+asString
+	^ board asString.

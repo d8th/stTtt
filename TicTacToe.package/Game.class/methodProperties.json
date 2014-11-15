@@ -3,12 +3,15 @@
 		"withPlayerX:andPlayerO:" : "DanielIrvine 11/13/2014 18:09",
 		"withPlayerX:andPlayerO:andBoard:" : "DanielIrvine 11/13/2014 18:09" },
 	"instance" : {
-		"board" : "DanielIrvine 11/13/2014 15:54",
+		"allSquares" : "DanielIrvine 11/14/2014 22:11",
+		"asString" : "DanielIrvine 11/14/2014 22:34",
 		"finished" : "DanielIrvine 11/13/2014 17:26",
 		"initializeWithPlayerX:andPlayerO:" : "DanielIrvine 11/13/2014 15:49",
 		"initializeWithPlayerX:andPlayerO:andBoard:" : "DanielIrvine 11/13/2014 18:08",
+		"markAt:" : "DanielIrvine 11/14/2014 22:12",
 		"nextPlayer" : "DanielIrvine 11/13/2014 15:47",
 		"playAllAvailableMoves" : "DanielIrvine 11/13/2014 17:26",
 		"playNextMove" : "DanielIrvine 11/13/2014 17:21",
 		"setBoard:" : "DanielIrvine 11/13/2014 18:03",
+		"size" : "DanielIrvine 11/14/2014 21:31",
 		"statusText" : "DanielIrvine 11/13/2014 18:21" } }

@@ -1,5 +1,5 @@
 as yet unclassified
-addLabel: mark
+label: mark
 	label := StringMorph new
 		font: BoardCellMorph labelFont;
 		contents: mark asString.

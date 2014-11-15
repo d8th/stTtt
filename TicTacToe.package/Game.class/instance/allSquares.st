@@ -1,0 +1,3 @@
+status
+allSquares
+	^ board allSquares.

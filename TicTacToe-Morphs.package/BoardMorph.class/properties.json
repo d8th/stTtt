@@ -1,0 +1,16 @@
+{
+	"category" : "TicTacToe-Morphs",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"game",
+		"squareMorphs",
+		"grid" ],
+	"name" : "BoardMorph",
+	"pools" : [
+		 ],
+	"super" : "Morph",
+	"type" : "normal" }

@@ -1,0 +1,6 @@
+as yet unclassified
+testUpdatesSquaresWithText
+	x addNextMove: 4.
+	game playNextMove.
+	morph updateSquares.
+	self assert: (morph allStringsAfter: nil) = #('X' 'O' 'X') asOrderedCollection.

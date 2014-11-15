@@ -1,3 +1,3 @@
 private - state
 numPlayedMoves
-	^ (state size) - (self availableMoves size).
+	^ (self numSquares) - (self availableMoves size).

@@ -8,4 +8,4 @@ testPlaysUntilFinishAndNotBeyond
 	x addNextMove: 3.
 	o addNextMove: 6.
 	game playAllAvailableMoves.
-	self assert: game board state = 'XXXOO----'.
+	self assert: game asString = 'XXXOO----'.
