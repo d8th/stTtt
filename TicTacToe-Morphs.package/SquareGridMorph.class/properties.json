@@ -10,5 +10,5 @@
 	"name" : "SquareGridMorph",
 	"pools" : [
 		 ],
-	"super" : "Morph",
+	"super" : "PanelMorph",
 	"type" : "normal" }

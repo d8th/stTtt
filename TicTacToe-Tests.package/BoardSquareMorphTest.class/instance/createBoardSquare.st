@@ -1,3 +1,3 @@
 helpers
 createBoardSquare
-	square := (BoardSquareMorph forSquare: 1 andGame: game).
+	square := (BoardSquareMorph forSquare: 1 inGame: game).

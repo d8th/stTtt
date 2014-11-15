@@ -1,7 +1,8 @@
 {
 	"category" : "TicTacToe-Morphs",
 	"classinstvars" : [
-		"layoutFrame" ],
+		"layoutFrame",
+		"labelFont" ],
 	"classvars" : [
 		 ],
 	"commentStamp" : "<historical>",
