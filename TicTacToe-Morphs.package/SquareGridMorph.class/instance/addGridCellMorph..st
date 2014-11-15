@@ -1,6 +1,6 @@
-submorphs-add/remove
+private
 addGridCellMorph:morph
 	morph layoutFrame: self nextLayoutFrame;
 		vResizing: #spaceFill;
 		hResizing: #spaceFill.
-	^ super addMorph: morph.
+	^ self addMorph: morph.

@@ -4,4 +4,3 @@ setUp
 	o := Player withMark: $O.
 	game := Game withPlayerX: x andPlayerO: o andBoard: (Board representedBy: 'XO-------').
 	morph := BoardMorph withGame: game.
-	morph update.

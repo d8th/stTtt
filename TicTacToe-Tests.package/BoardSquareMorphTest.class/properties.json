@@ -7,8 +7,10 @@
 	"commentStamp" : "",
 	"instvars" : [
 		"x",
-		"o" ],
-	"name" : "BoardCellMorphTest",
+		"o",
+		"game",
+		"square" ],
+	"name" : "BoardSquareMorphTest",
 	"pools" : [
 		 ],
 	"super" : "TestCase",

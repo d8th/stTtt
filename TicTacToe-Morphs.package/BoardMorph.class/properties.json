@@ -1,16 +1,17 @@
 {
 	"category" : "TicTacToe-Morphs",
 	"classinstvars" : [
-		 ],
+		"layoutFrame" ],
 	"classvars" : [
 		 ],
 	"commentStamp" : "<historical>",
 	"instvars" : [
-		"game",
 		"squareMorphs",
-		"statusText" ],
+		"statusText",
+		"game",
+		"layoutFrame" ],
 	"name" : "BoardMorph",
 	"pools" : [
 		 ],
-	"super" : "Morph",
+	"super" : "StandardWindow",
 	"type" : "normal" }

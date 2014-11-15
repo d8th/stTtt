@@ -1,0 +1,16 @@
+{
+	"class" : {
+		"createLabelFont" : "DanielIrvine 11/14/2014 20:18",
+		"forSquare:andGame:" : "DanielIrvine 11/15/2014 19:38",
+		"labelFont" : "DanielIrvine 11/14/2014 20:18" },
+	"instance" : {
+		"centerLabel" : "DanielIrvine 11/14/2014 20:38",
+		"extent:" : "DanielIrvine 11/14/2014 20:38",
+		"handlesMouseDown:" : "DanielIrvine 11/15/2014 19:06",
+		"handlesMouseUp:" : "DanielIrvine 11/15/2014 19:06",
+		"initialize" : "DanielIrvine 11/14/2014 20:15",
+		"initializeForSquare:andGame:" : "DanielIrvine 11/15/2014 19:39",
+		"initializeLabel" : "DanielIrvine 11/15/2014 19:41",
+		"mouseUp:" : "DanielIrvine 11/15/2014 19:39",
+		"playBoardSquare" : "DanielIrvine 11/15/2014 19:41",
+		"setMark:" : "DanielIrvine 11/15/2014 10:44" } }

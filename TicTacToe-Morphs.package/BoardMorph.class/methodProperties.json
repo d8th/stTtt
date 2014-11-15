@@ -1,10 +1,12 @@
 {
 	"class" : {
-		"withGame:" : "DanielIrvine 11/14/2014 21:07" },
+		"withGame:" : "DanielIrvine 11/15/2014 19:28" },
 	"instance" : {
-		"initializeGrid" : "DanielIrvine 11/15/2014 11:51",
-		"initializeStatusText" : "DanielIrvine 11/15/2014 11:40",
-		"initializeWithGame:" : "DanielIrvine 11/15/2014 11:45",
-		"update" : "DanielIrvine 11/15/2014 11:42",
-		"updateSquares" : "DanielIrvine 11/15/2014 11:45",
-		"updateStatusText" : "DanielIrvine 11/15/2014 11:43" } }
+		"initialize" : "DanielIrvine 11/15/2014 19:44",
+		"initializeGrid" : "DanielIrvine 11/15/2014 19:41",
+		"initializeLayoutFrame" : "DanielIrvine 11/15/2014 14:40",
+		"initializeStatusText" : "DanielIrvine 11/15/2014 19:47",
+		"initializeWithGame:" : "DanielIrvine 11/15/2014 20:15",
+		"update:" : "DanielIrvine 11/15/2014 19:43",
+		"updateSquares" : "DanielIrvine 11/15/2014 13:44",
+		"updateStatusText" : "DanielIrvine 11/15/2014 13:44" } }

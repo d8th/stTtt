@@ -8,8 +8,9 @@
 	"instvars" : [
 		"label",
 		"square",
+		"morphicGame",
 		"game" ],
-	"name" : "BoardCellMorph",
+	"name" : "BoardSquareMorph",
 	"pools" : [
 		 ],
 	"super" : "BorderedMorph",
