@@ -2,7 +2,11 @@
 	"class" : {
 		 },
 	"instance" : {
+		"bestNextMove:forMark:withAlpha:andBeta:andDepth:" : "DanielIrvine 11/16/2014 22:56",
 		"hasAvailableMove" : "DanielIrvine 11/16/2014 20:48",
-		"provideNextMove:" : "DanielIrvine 11/16/2014 21:45",
-		"provideNextMove:forMark:withAlpha:andBeta:" : "DanielIrvine 11/16/2014 22:11",
+		"maxDepth:" : "DanielIrvine 11/16/2014 23:06",
+		"playCorner:" : "DanielIrvine 11/16/2014 23:07",
+		"playRandom:" : "DanielIrvine 11/16/2014 22:59",
+		"provideNextMove:" : "DanielIrvine 11/16/2014 23:07",
+		"randomPlayLimit:" : "DanielIrvine 11/16/2014 23:00",
 		"score:" : "DanielIrvine 11/16/2014 20:54" } }

@@ -4,6 +4,9 @@
 	"instance" : {
 		"testAvailableMovesForCompleteBoard" : "DanielIrvine 11/13/2014 08:37",
 		"testAvailableMovesForEmptyBoard" : "DanielIrvine 11/13/2014 10:23",
+		"testBoardIsEmpty" : "DanielIrvine 11/16/2014 22:53",
+		"testBoardIsNotEmpty" : "DanielIrvine 11/16/2014 22:55",
+		"testCorners" : "DanielIrvine 11/16/2014 22:52",
 		"testDoesNotPlayMoveInAlreadyPlayedSquare" : "DanielIrvine 11/14/2014 22:34",
 		"testDrawnWhenFinishedAndNotWon" : "DanielIrvine 11/13/2014 12:51",
 		"testFirstPlayerIsX" : "DanielIrvine 11/13/2014 12:29",
