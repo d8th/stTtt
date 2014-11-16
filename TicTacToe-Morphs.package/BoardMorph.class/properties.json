@@ -14,5 +14,5 @@
 	"name" : "BoardMorph",
 	"pools" : [
 		 ],
-	"super" : "StandardWindow",
+	"super" : "PanelMorph",
 	"type" : "normal" }

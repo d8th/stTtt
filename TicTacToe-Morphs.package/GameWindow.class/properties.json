@@ -1,12 +1,12 @@
 {
-	"category" : "TicTacToe",
+	"category" : "TicTacToe-Morphs",
 	"classinstvars" : [
 		 ],
 	"classvars" : [
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		 ],
+		"layoutFrame" ],
 	"name" : "GameWindow",
 	"pools" : [
 		 ],
