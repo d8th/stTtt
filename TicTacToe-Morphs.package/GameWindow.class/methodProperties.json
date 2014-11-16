@@ -2,7 +2,10 @@
 	"class" : {
 		 },
 	"instance" : {
+		"createPlayButton" : "DanielIrvine 11/16/2014 14:01",
 		"initialize" : "DanielIrvine 11/16/2014 11:15",
 		"initializeLayoutFrame" : "DanielIrvine 11/16/2014 11:15",
-		"initializeSetupFrame" : "DanielIrvine 11/16/2014 12:09",
-		"play" : "DanielIrvine 11/16/2014 10:55" } }
+		"initializeSetupFrame" : "DanielIrvine 11/16/2014 14:00",
+		"play" : "DanielIrvine 11/16/2014 13:48",
+		"removeCurrentBoardMorph" : "DanielIrvine 11/16/2014 13:48",
+		"update:" : "DanielIrvine 11/16/2014 13:57" } }

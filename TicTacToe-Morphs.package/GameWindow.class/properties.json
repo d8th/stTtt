@@ -6,7 +6,11 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"layoutFrame" ],
+		"layoutFrame",
+		"game",
+		"currentBoardMorph",
+		"playButton",
+		"setupFrame" ],
 	"name" : "GameWindow",
 	"pools" : [
 		 ],

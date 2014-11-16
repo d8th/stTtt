@@ -2,7 +2,14 @@
 	"class" : {
 		 },
 	"instance" : {
-		"findButtonNamed:" : "DanielIrvine 11/15/2014 22:27",
-		"testHasGameWhenCreateButtonClicked" : "DanielIrvine 11/15/2014 22:36",
-		"testHasNoInitialGame" : "DanielIrvine 11/15/2014 21:29",
-		"testShowsWindowWithTitle" : "DanielIrvine 11/13/2014 19:21" } }
+		"clickSquare:" : "DanielIrvine 11/16/2014 13:59",
+		"findBoardSquareMorph:" : "DanielIrvine 11/16/2014 13:58",
+		"findButtonForAction:" : "DanielIrvine 11/16/2014 14:03",
+		"playUntilWon" : "DanielIrvine 11/16/2014 13:56",
+		"setUp" : "DanielIrvine 11/16/2014 13:54",
+		"testHasGameWhenCreateButtonClicked" : "DanielIrvine 11/16/2014 13:54",
+		"testHasNoInitialGame" : "DanielIrvine 11/16/2014 13:54",
+		"testPlayButtonDisablesWhenGameBegins" : "DanielIrvine 11/16/2014 13:55",
+		"testPlayButtonEnablesWhenGameEnds" : "DanielIrvine 11/16/2014 13:55",
+		"testPlayingASecondGameOverwritesExistingBoard" : "DanielIrvine 11/16/2014 13:53",
+		"testShowsWindowWithTitle" : "DanielIrvine 11/16/2014 13:54" } }

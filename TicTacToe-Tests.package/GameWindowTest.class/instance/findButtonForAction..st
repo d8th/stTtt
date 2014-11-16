@@ -1,5 +1,5 @@
 helpers
-findButtonNamed: aName
+findButtonForAction: aName
 	^ window findDeepSubmorphThat: [ :b |  
 		(b respondsTo:#actionSelector) and: [ b actionSelector = aName ]
 		] ifAbsent: [ nil ].
