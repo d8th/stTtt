@@ -1,3 +1,3 @@
 private 
 finished
-	^ (board isDrawn) or: (board isWon).
+	^ board finished.

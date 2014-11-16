@@ -12,6 +12,7 @@
 		"asString" : "DanielIrvine 11/14/2014 22:33",
 		"availableMoves" : "DanielIrvine 11/14/2014 22:07",
 		"chooseExisting:orMark:ifEmptySquareAt:" : "DanielIrvine 11/14/2014 21:48",
+		"finished" : "DanielIrvine 11/16/2014 21:16",
 		"initializeWithSize:andState:" : "DanielIrvine 11/14/2014 20:15",
 		"isAnyColumnWon" : "DanielIrvine 11/13/2014 14:05",
 		"isAnyRowWon" : "DanielIrvine 11/13/2014 13:36",

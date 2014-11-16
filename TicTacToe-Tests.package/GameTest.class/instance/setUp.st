@@ -1,4 +1,4 @@
 setup
 setUp
-	x := Player withMark: Board x.
-	o := Player withMark: Board o.
+	x := HumanPlayer withMark: Board x.
+	o := HumanPlayer withMark: Board o.

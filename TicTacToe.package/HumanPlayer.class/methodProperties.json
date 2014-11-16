@@ -1,0 +1,8 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"addNextMove:" : "DanielIrvine 11/13/2014 17:11",
+		"hasAvailableMove" : "DanielIrvine 11/13/2014 17:21",
+		"initialize" : "DanielIrvine 11/16/2014 20:44",
+		"provideNextMove" : "DanielIrvine 11/13/2014 17:10" } }

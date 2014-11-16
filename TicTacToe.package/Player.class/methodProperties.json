@@ -1,9 +1,6 @@
 {
 	"class" : {
-		"withMark:" : "DanielIrvine 11/13/2014 15:39" },
+		"withMark:" : "DanielIrvine 11/16/2014 20:47" },
 	"instance" : {
-		"addNextMove:" : "DanielIrvine 11/13/2014 17:11",
-		"hasAvailableMove" : "DanielIrvine 11/13/2014 17:21",
-		"initializeWithMark:" : "DanielIrvine 11/13/2014 17:08",
-		"mark" : "DanielIrvine 11/13/2014 15:50",
-		"provideNextMove" : "DanielIrvine 11/13/2014 17:10" } }
+		"initializeWithMark:" : "DanielIrvine 11/16/2014 20:47",
+		"mark" : "DanielIrvine 11/16/2014 20:39" } }

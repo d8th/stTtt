@@ -4,7 +4,7 @@
 	"instance" : {
 		"initializeEmptyGame" : "DanielIrvine 11/13/2014 17:50",
 		"initializeInProgressGame:" : "DanielIrvine 11/13/2014 18:10",
-		"setUp" : "DanielIrvine 11/13/2014 17:48",
+		"setUp" : "DanielIrvine 11/16/2014 20:34",
 		"testAllSquares" : "DanielIrvine 11/14/2014 22:06",
 		"testMarkAt" : "DanielIrvine 11/14/2014 22:12",
 		"testOnlyPlaysIfMoveIsSet" : "DanielIrvine 11/14/2014 22:31",

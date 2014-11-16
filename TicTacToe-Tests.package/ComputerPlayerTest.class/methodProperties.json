@@ -1,0 +1,10 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"setUp" : "DanielIrvine 11/16/2014 21:02",
+		"testAlwaysHasNextMove" : "DanielIrvine 11/16/2014 21:21",
+		"testBlocks" : "DanielIrvine 11/16/2014 21:04",
+		"testDrawsInsteadOfLoses" : "DanielIrvine 11/16/2014 21:02",
+		"testMakesWinningMove" : "DanielIrvine 11/16/2014 21:02",
+		"testMakesWinningMoveOverDrawingMove" : "DanielIrvine 11/16/2014 21:02" } }

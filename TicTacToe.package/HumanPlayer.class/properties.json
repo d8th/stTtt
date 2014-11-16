@@ -6,9 +6,9 @@
 		 ],
 	"commentStamp" : "<historical>",
 	"instvars" : [
-		"mark" ],
-	"name" : "Player",
+		"nextMoves" ],
+	"name" : "HumanPlayer",
 	"pools" : [
 		 ],
-	"super" : "Object",
+	"super" : "Player",
 	"type" : "normal" }

@@ -6,8 +6,9 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"player" ],
-	"name" : "PlayerTest",
+		"o",
+		"x" ],
+	"name" : "ComputerPlayerTest",
 	"pools" : [
 		 ],
 	"super" : "TestCase",

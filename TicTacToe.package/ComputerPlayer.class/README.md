@@ -1,0 +1,1 @@
+A ComputerPlayer is a player which always provides the best possible move.

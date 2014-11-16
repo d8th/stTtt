@@ -1,3 +1,3 @@
-as yet unclassified
+moves
 hasAvailableMove
 	^ nextMoves isEmpty not.

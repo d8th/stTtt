@@ -2,8 +2,8 @@
 	"class" : {
 		 },
 	"instance" : {
-		"setUp" : "DanielIrvine 11/13/2014 17:15",
-		"testHasNextMove" : "DanielIrvine 11/13/2014 17:21",
+		"setUp" : "DanielIrvine 11/16/2014 20:34",
+		"testHasNextMove" : "DanielIrvine 11/16/2014 20:35",
 		"testMaintainsNextMove" : "DanielIrvine 11/13/2014 17:15",
 		"testMoveCanOnlyBePlayedOnce" : "DanielIrvine 11/13/2014 17:21",
 		"testReturnsMultipleMoves" : "DanielIrvine 11/13/2014 17:15" } }
