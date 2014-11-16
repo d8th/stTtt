@@ -3,6 +3,6 @@
 		 },
 	"instance" : {
 		"hasAvailableMove" : "DanielIrvine 11/16/2014 20:48",
-		"provideNextMove:" : "DanielIrvine 11/16/2014 21:43",
-		"provideNextMove:forMark:" : "DanielIrvine 11/16/2014 21:41",
+		"provideNextMove:" : "DanielIrvine 11/16/2014 21:45",
+		"provideNextMove:forMark:withAlpha:andBeta:" : "DanielIrvine 11/16/2014 22:11",
 		"score:" : "DanielIrvine 11/16/2014 20:54" } }
