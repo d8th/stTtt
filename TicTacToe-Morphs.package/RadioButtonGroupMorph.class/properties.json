@@ -6,15 +6,9 @@
 		 ],
 	"commentStamp" : "<historical>",
 	"instvars" : [
-		"layoutFrame",
-		"game",
-		"currentBoardMorph",
-		"playButton",
-		"setupFrame",
-		"sizeFour",
-		"sizeThree" ],
-	"name" : "GameWindow",
+		"buttons" ],
+	"name" : "RadioButtonGroupMorph",
 	"pools" : [
 		 ],
-	"super" : "StandardWindow",
+	"super" : "GroupboxMorph",
 	"type" : "normal" }

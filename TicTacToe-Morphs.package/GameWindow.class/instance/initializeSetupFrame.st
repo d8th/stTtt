@@ -5,4 +5,5 @@ initializeSetupFrame
 		height: 150;
 		hResizing: #spaceFill.
 	layoutFrame addMorph: setupFrame.	
+	setupFrame addContentMorph: self createGameSizeOptions.
 	setupFrame addContentMorph: self createPlayButton.
