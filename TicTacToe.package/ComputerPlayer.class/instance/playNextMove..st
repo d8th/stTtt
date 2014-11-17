@@ -1,6 +1,6 @@
 moves
 playNextMove: board
-	board empty
+	board isEmpty
 		ifTrue: [ ^ board play: mark inSquare: (self chooseCornerOrMiddleSquare: board) ].
 		
 	(self shouldPlayRandom: board)

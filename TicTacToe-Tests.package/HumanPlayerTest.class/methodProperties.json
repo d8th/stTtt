@@ -4,6 +4,5 @@
 	"instance" : {
 		"setUp" : "DanielIrvine 11/17/2014 15:32",
 		"testAcceptsUserInput" : "DanielIrvine 11/17/2014 14:36",
-		"testDoesNotPlayMoveIfNoneSet" : "DanielIrvine 11/17/2014 15:37",
-		"testHasNextMove" : "DanielIrvine 11/16/2014 20:35",
-		"testPlaysMove" : "DanielIrvine 11/17/2014 15:36" } }
+		"testDoesNotPlayMoveIfNoneSet" : "DanielIrvine 11/17/2014 15:51",
+		"testPlaysMove" : "DanielIrvine 11/17/2014 15:46" } }

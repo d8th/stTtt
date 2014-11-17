@@ -1,5 +1,5 @@
-accessors
+moves
 playNextMove: board
-	^ (self hasAvailableMove)
-		ifTrue: [ board play: mark inSquare: nextMoves removeFirst]
+	^ (nextMove isNotNil)
+		ifTrue: [ board play: mark inSquare: nextMove ]
 		ifFalse: board.
