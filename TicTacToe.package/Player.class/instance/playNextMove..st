@@ -1,3 +1,3 @@
 as yet unclassified
-provideNextMove: board
+playNextMove: board
 	self subclassResponsibility.

@@ -1,3 +1,3 @@
-moves
+private
 hasAvailableMove
 	^ nextMoves isEmpty not.

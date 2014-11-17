@@ -1,11 +1,11 @@
 as yet unclassified
 createGameSizeOptions
-	| buttonFrame |
+	| frame |
 	
-	buttonFrame := RadioButtonGroupMorph new 
-		label: 'Size is...'.
+	frame := RadioButtonGroupMorph new label: 'Size is...'.
 		
-	sizeThree := buttonFrame addButton: '3x3'.
-	sizeFour := buttonFrame addButton: '4x4'.
+	frame addButton: '3x3'.
+	sizeFour := frame addButton: '4x4'.
+	sizeFour name: '4x4'.
 	
-	^ buttonFrame.
+	^ frame.

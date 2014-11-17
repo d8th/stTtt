@@ -1,4 +1,4 @@
-as yet unclassified
+state
 middleSquares
 	^ (size odd)
 		ifTrue: [{ (self allSquares size + 1) / 2 }]

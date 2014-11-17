@@ -2,4 +2,4 @@ as yet unclassified
 testMakesWinningMoveOverDrawingMove
 	| board |
 	board := Board representedBy: 'O-OOOXXX-'.
-	self assert: (x provideNextMove: board) = 9.
+	self assert: (x playNextMove: board) asString = 'O-OOOXXXX'.

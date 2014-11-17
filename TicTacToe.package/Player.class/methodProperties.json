@@ -3,7 +3,6 @@
 		"withMark:" : "DanielIrvine 11/16/2014 20:47" },
 	"instance" : {
 		"acceptsUserInput" : "DanielIrvine 11/17/2014 14:45",
-		"hasAvailableMove" : "DanielIrvine 11/17/2014 14:46",
 		"initializeWithMark:" : "DanielIrvine 11/16/2014 20:47",
 		"mark" : "DanielIrvine 11/16/2014 20:39",
-		"provideNextMove:" : "DanielIrvine 11/17/2014 14:46" } }
+		"playNextMove:" : "DanielIrvine 11/17/2014 15:29" } }

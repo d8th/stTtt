@@ -17,7 +17,7 @@ bestNextMove: board forMark: thisMark withAlpha: alpha andBeta: beta andDepth: d
 			score := scoreBoard first negated.
 			score > bestScore
 				ifTrue: [ 
-					bestMove := square.
+					bestMove := nextBoard.
 					bestScore := score ].
 			bestScore > beta
 				ifTrue: [ ^ {bestScore . bestMove} ] ].

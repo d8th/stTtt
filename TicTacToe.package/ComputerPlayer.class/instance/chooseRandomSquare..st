@@ -1,3 +1,3 @@
 private
-playRandom: board
+chooseRandomSquare: board
 	^ board availableMoves atRandom.

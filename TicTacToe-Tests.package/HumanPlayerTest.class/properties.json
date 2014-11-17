@@ -6,7 +6,8 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"player" ],
+		"player",
+		"board" ],
 	"name" : "HumanPlayerTest",
 	"pools" : [
 		 ],

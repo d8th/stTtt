@@ -1,3 +1,3 @@
 private
-playCornerOrMiddle: board
+chooseCornerOrMiddleSquare: board
 	^ (board cornerSquares , board middleSquares) atRandom.

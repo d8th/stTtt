@@ -2,4 +2,4 @@ as yet unclassified
 testPlaysCenterSquareIfOpen
 	| board |
 	board := Board representedBy: 'X--------'.
-	self assert: (o provideNextMove: board) = 5.
+	self assert: (o playNextMove: board) asString = 'X---O----'.
