@@ -1,0 +1,3 @@
+timer
+isStepping
+	^ isStepping.

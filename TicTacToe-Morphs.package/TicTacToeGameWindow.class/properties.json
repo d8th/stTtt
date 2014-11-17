@@ -1,0 +1,23 @@
+{
+	"category" : "TicTacToe-Morphs",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"layoutFrame",
+		"game",
+		"currentBoardMorph",
+		"playButton",
+		"setupFrame",
+		"sizeFour",
+		"sizeThree",
+		"oComputer",
+		"xComputer",
+		"isStepping" ],
+	"name" : "TicTacToeGameWindow",
+	"pools" : [
+		 ],
+	"super" : "StandardWindow",
+	"type" : "normal" }

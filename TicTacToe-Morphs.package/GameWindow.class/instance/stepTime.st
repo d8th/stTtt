@@ -1,3 +1,0 @@
-timer
-stepTime
-	^ 700.

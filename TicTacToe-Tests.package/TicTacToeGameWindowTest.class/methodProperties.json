@@ -1,0 +1,26 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"clickSquare:" : "DanielIrvine 11/16/2014 13:59",
+		"findBoardMorph" : "DanielIrvine 11/16/2014 20:27",
+		"findBoardSquareMorph:" : "DanielIrvine 11/16/2014 20:27",
+		"findButtonForAction:" : "DanielIrvine 11/16/2014 20:27",
+		"findMorphNamed:" : "DanielIrvine 11/17/2014 11:14",
+		"playUntilWon" : "DanielIrvine 11/16/2014 13:56",
+		"setUp" : "DanielIrvine 11/17/2014 16:21",
+		"testByDefaultCreatesA3x3Game" : "DanielIrvine 11/16/2014 14:10",
+		"testCanChooseComputerForO" : "DanielIrvine 11/17/2014 11:14",
+		"testCanChooseComputerForX" : "DanielIrvine 11/17/2014 11:16",
+		"testCanCreateA4x4Game" : "DanielIrvine 11/17/2014 15:06",
+		"testHasGameWhenCreateButtonClicked" : "DanielIrvine 11/16/2014 20:28",
+		"testHasNoInitialGame" : "DanielIrvine 11/16/2014 20:29",
+		"testIsNotSteppingByDefault" : "DanielIrvine 11/17/2014 12:28",
+		"testPlayButtonChangesToPlayAgainAfterWin" : "DanielIrvine 11/17/2014 11:53",
+		"testPlayButtonDisablesWhenGameBegins" : "DanielIrvine 11/16/2014 13:55",
+		"testPlayButtonEnablesWhenGameEnds" : "DanielIrvine 11/16/2014 13:55",
+		"testPlayingASecondGameOverwritesExistingBoard" : "DanielIrvine 11/17/2014 14:06",
+		"testSetsStepTime" : "DanielIrvine 11/17/2014 16:22",
+		"testShowsWindowWithTitle" : "DanielIrvine 11/16/2014 13:54",
+		"testStartsSteppingWhenPlaying" : "DanielIrvine 11/17/2014 12:29",
+		"testStepPlaysNextMove" : "DanielIrvine 11/17/2014 15:46" } }
