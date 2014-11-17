@@ -1,9 +1,7 @@
 as yet unclassified
 play
-	currentBoardMorph ifNotNil: [self removeCurrentBoardMorph].
-	currentBoardMorph := BoardMorph withGame: 
-	(Game withPlayerX: (self buildPlayer: $X basedOnButton: xComputer)
-		andPlayerO: (self buildPlayer: $O basedOnButton: oComputer)
-		andBoard: (Board ofSize: (self boardSize))).
+	currentBoardMorph ifNotNil: [ self removeCurrentBoardMorph ].
+	currentBoardMorph := BoardMorph withGame: self buildGame.
 	layoutFrame addMorphBack: currentBoardMorph.
-	(self setupEnabled: false).
+	self setupEnabled: false.
+	self startStepping.

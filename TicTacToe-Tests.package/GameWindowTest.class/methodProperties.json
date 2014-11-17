@@ -16,8 +16,12 @@
 		"testCanCreateA4x4Game" : "DanielIrvine 11/16/2014 14:58",
 		"testHasGameWhenCreateButtonClicked" : "DanielIrvine 11/16/2014 20:28",
 		"testHasNoInitialGame" : "DanielIrvine 11/16/2014 20:29",
+		"testIsNotSteppingByDefault" : "DanielIrvine 11/17/2014 12:28",
 		"testPlayButtonChangesToPlayAgainAfterWin" : "DanielIrvine 11/17/2014 11:53",
 		"testPlayButtonDisablesWhenGameBegins" : "DanielIrvine 11/16/2014 13:55",
 		"testPlayButtonEnablesWhenGameEnds" : "DanielIrvine 11/16/2014 13:55",
-		"testPlayingASecondGameOverwritesExistingBoard" : "DanielIrvine 11/16/2014 20:29",
-		"testShowsWindowWithTitle" : "DanielIrvine 11/16/2014 13:54" } }
+		"testPlayingASecondGameOverwritesExistingBoard" : "DanielIrvine 11/17/2014 14:06",
+		"testSetsStepTimeToHalfASecond" : "DanielIrvine 11/17/2014 12:23",
+		"testShowsWindowWithTitle" : "DanielIrvine 11/16/2014 13:54",
+		"testStartsSteppingWhenPlaying" : "DanielIrvine 11/17/2014 12:29",
+		"testStepPlaysNextMove" : "DanielIrvine 11/17/2014 12:26" } }

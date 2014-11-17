@@ -1,3 +1,3 @@
 state
-finished
+isFinished
 	^ (self isWon) or: self isDrawn.

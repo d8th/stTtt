@@ -2,5 +2,6 @@ private
 update: aParameter
 	self updateSquares.
 	self updateStatusText.
-	(game finished) 
+	Transcript show: game asString.
+	(game isFinished) 
 		ifTrue: [self ownerChain do: [  :each |  (each = self) ifFalse: [each update: #gameFinished]]].

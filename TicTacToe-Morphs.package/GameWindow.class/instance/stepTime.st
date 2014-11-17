@@ -1,0 +1,3 @@
+timer
+stepTime
+	^ 500.

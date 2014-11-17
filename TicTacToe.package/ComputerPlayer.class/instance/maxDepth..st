@@ -1,3 +1,5 @@
-as yet unclassified
+private - negamax
 maxDepth: board
-	^ 8 max: (self randomPlayLimit: board).
+	^ board size > 3
+		ifTrue: [ self maxDepthForLargeBoards ]
+		ifFalse: [ board allSquares size ].

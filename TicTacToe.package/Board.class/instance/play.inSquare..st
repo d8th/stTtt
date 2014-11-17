@@ -1,7 +1,7 @@
 play
 play: mark inSquare: square
 	|newState|
-	(self finished) ifTrue: [ ^ self ].
+	(self isFinished) ifTrue: [ ^ self ].
 	newState := ByteString fromString: state.
 	(self markAt: square) = Board unplayed
 		ifTrue: [

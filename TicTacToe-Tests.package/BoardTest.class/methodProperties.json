@@ -2,11 +2,12 @@
 	"class" : {
 		 },
 	"instance" : {
+		"test4x4isNotWonWithThreeInAColumn" : "DanielIrvine 11/17/2014 13:23",
 		"testAvailableMovesForCompleteBoard" : "DanielIrvine 11/13/2014 08:37",
 		"testAvailableMovesForEmptyBoard" : "DanielIrvine 11/13/2014 10:23",
 		"testBoardIsEmpty" : "DanielIrvine 11/16/2014 22:53",
 		"testBoardIsNotEmpty" : "DanielIrvine 11/16/2014 22:55",
-		"testCorners" : "DanielIrvine 11/16/2014 22:52",
+		"testCorners" : "DanielIrvine 11/17/2014 14:05",
 		"testDoesNotPlayMoveInAlreadyPlayedSquare" : "DanielIrvine 11/17/2014 11:53",
 		"testDoesNotPlayMoveWhenFinished" : "DanielIrvine 11/17/2014 11:50",
 		"testDrawnWhenFinishedAndNotWon" : "DanielIrvine 11/13/2014 12:51",
@@ -16,6 +17,8 @@
 		"testLastPlayerIsOWhenOHasPlayed" : "DanielIrvine 11/13/2014 12:40",
 		"testLastPlayerIsXWhenXHasPlayed" : "DanielIrvine 11/13/2014 12:40",
 		"testMarkAtIsCorrect" : "DanielIrvine 11/14/2014 21:48",
+		"testMiddleSquaresFor3x3" : "DanielIrvine 11/17/2014 14:05",
+		"testMiddleSquaresFor4x4" : "DanielIrvine 11/17/2014 14:05",
 		"testNotDrawnWhenFinishedButWon" : "DanielIrvine 11/13/2014 13:48",
 		"testNotDrawnWhenNotFinished" : "DanielIrvine 11/13/2014 12:50",
 		"testPlaysMoveInEmptySquare" : "DanielIrvine 11/14/2014 22:34",

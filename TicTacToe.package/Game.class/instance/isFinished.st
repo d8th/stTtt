@@ -1,0 +1,3 @@
+private 
+isFinished
+	^ board isFinished.

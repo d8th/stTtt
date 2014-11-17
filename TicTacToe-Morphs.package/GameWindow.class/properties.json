@@ -14,7 +14,8 @@
 		"sizeFour",
 		"sizeThree",
 		"oComputer",
-		"xComputer" ],
+		"xComputer",
+		"isStepping" ],
 	"name" : "GameWindow",
 	"pools" : [
 		 ],

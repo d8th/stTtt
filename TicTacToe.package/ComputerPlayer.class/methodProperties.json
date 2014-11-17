@@ -2,11 +2,14 @@
 	"class" : {
 		 },
 	"instance" : {
-		"bestNextMove:forMark:withAlpha:andBeta:andDepth:" : "DanielIrvine 11/16/2014 22:56",
-		"hasAvailableMove" : "DanielIrvine 11/16/2014 20:48",
-		"maxDepth:" : "DanielIrvine 11/16/2014 23:06",
-		"playCorner:" : "DanielIrvine 11/16/2014 23:07",
+		"bestNextMove:forMark:withAlpha:andBeta:andDepth:" : "DanielIrvine 11/17/2014 14:17",
+		"hasAvailableMove" : "DanielIrvine 11/17/2014 12:13",
+		"maxDepth:" : "DanielIrvine 11/17/2014 13:39",
+		"maxDepthForLargeBoards" : "DanielIrvine 11/17/2014 13:47",
+		"playCalculatedBestMove:" : "DanielIrvine 11/17/2014 14:15",
+		"playCornerOrMiddle:" : "DanielIrvine 11/17/2014 14:11",
 		"playRandom:" : "DanielIrvine 11/16/2014 22:59",
-		"provideNextMove:" : "DanielIrvine 11/17/2014 00:06",
-		"randomPlayLimit:" : "DanielIrvine 11/16/2014 23:31",
-		"score:" : "DanielIrvine 11/16/2014 20:54" } }
+		"provideNextMove:" : "DanielIrvine 11/17/2014 14:14",
+		"randomPlayLimit:" : "DanielIrvine 11/17/2014 13:50",
+		"score:" : "DanielIrvine 11/16/2014 20:54",
+		"shouldPlayRandom:" : "DanielIrvine 11/17/2014 13:46" } }

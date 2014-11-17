@@ -1,11 +1,9 @@
-as yet unclassified
+private - negamax
 bestNextMove: board forMark: thisMark withAlpha: alpha andBeta: beta andDepth: depth
-	| bestScore bestMove availableMoves |
-	(board finished or: [depth = 0])
+	| bestScore bestMove |
+	(board isFinished or: [depth = 0])
 		ifTrue: [ ^ {((self score: board) negated)} ].
 	bestScore := alpha.
-	bestMove := nil.
-	availableMoves := board availableMoves.
 	board availableMoves
 		do: [ :square | 
 			| nextBoard scoreBoard score |
@@ -22,8 +20,5 @@ bestNextMove: board forMark: thisMark withAlpha: alpha andBeta: beta andDepth: d
 					bestMove := square.
 					bestScore := score ].
 			bestScore > beta
-				ifTrue: [ 
-					^ {bestScore.
-					bestMove} ] ].
-	^ {bestScore.
-	bestMove}
+				ifTrue: [ ^ {bestScore . bestMove} ] ].
+	^ {bestScore . bestMove}
