@@ -1,3 +1,4 @@
 events - mouse
 mouseUp: evt
-	self playBoardSquare.
+	(game nextPlayer acceptsUserInput)
+		ifTrue: [ self playBoardSquare ].

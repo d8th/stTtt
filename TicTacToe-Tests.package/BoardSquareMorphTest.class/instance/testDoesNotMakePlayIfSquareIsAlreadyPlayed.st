@@ -1,5 +1,5 @@
 as yet unclassified
-testDoesNotMakePlayIsSquareIsAlreadyPlayed
+testDoesNotMakePlayIfSquareIsAlreadyPlayed
 	self createGameForBoard: (self singlePlayBoard).
 	self createBoardSquare.
 	square mouseUp: nil.

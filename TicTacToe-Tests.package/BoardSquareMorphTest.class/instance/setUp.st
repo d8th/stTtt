@@ -1,4 +1,4 @@
 as yet unclassified
 setUp
-	x := HumanPlayer withMark: $X.
-	o := HumanPlayer withMark: $O.
+	x := HumanPlayer withMark: Board x.
+	o := HumanPlayer withMark: Board o.

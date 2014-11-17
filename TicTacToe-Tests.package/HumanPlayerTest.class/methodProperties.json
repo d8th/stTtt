@@ -3,6 +3,7 @@
 		 },
 	"instance" : {
 		"setUp" : "DanielIrvine 11/16/2014 20:34",
+		"testAcceptsUserInput" : "DanielIrvine 11/17/2014 14:36",
 		"testHasNextMove" : "DanielIrvine 11/16/2014 20:35",
 		"testMaintainsNextMove" : "DanielIrvine 11/17/2014 00:00",
 		"testMoveCanOnlyBePlayedOnce" : "DanielIrvine 11/17/2014 00:00",

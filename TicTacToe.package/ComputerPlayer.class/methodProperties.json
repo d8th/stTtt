@@ -2,6 +2,7 @@
 	"class" : {
 		 },
 	"instance" : {
+		"acceptsUserInput" : "DanielIrvine 11/17/2014 14:39",
 		"bestNextMove:forMark:withAlpha:andBeta:andDepth:" : "DanielIrvine 11/17/2014 14:17",
 		"hasAvailableMove" : "DanielIrvine 11/17/2014 12:13",
 		"maxDepth:" : "DanielIrvine 11/17/2014 13:39",

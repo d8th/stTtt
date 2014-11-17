@@ -4,5 +4,7 @@ statusText
 		ifTrue: [ ^ (board lastPlayer asString), ' wins!' ].
 	(board isDrawn)
 		ifTrue:  [^ 'It''s a draw!' ].
-		
-	^ (board nextPlayer asString) , '''s turn, please choose a square' .
+	
+	^ (self nextPlayer acceptsUserInput)
+		ifTrue: [ (board nextPlayer asString) , '''s turn, please choose a square' ]
+		ifFalse: [ (board nextPlayer asString) , '''s turn, thinking...' ].
