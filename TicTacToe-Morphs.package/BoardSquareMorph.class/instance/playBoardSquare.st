@@ -1,5 +1,5 @@
 private
 playBoardSquare
 	game nextPlayer addNextMove: square.
-	game playAllAvailableMoves.
+	game playNextMove.
 	self ownerChain do: [ :each | each update: self ].

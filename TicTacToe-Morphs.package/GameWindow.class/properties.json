@@ -12,7 +12,9 @@
 		"playButton",
 		"setupFrame",
 		"sizeFour",
-		"sizeThree" ],
+		"sizeThree",
+		"oComputer",
+		"xComputer" ],
 	"name" : "GameWindow",
 	"pools" : [
 		 ],

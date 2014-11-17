@@ -1,8 +1,9 @@
 as yet unclassified
 play
 	currentBoardMorph ifNotNil: [self removeCurrentBoardMorph].
-	currentBoardMorph := BoardMorph withGame: (Game withPlayerX: (HumanPlayer withMark:$X) 
-		andPlayerO: (HumanPlayer withMark:$O)
+	currentBoardMorph := BoardMorph withGame: 
+	(Game withPlayerX: (self buildPlayer: $X basedOnButton: xComputer)
+		andPlayerO: (self buildPlayer: $O basedOnButton: oComputer)
 		andBoard: (Board ofSize: (self boardSize))).
 	layoutFrame addMorphBack: currentBoardMorph.
-	playButton enabled: false.
+	(self setupEnabled: false).

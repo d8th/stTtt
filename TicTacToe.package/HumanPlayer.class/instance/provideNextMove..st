@@ -1,3 +1,3 @@
 accessors
-provideNextMove
+provideNextMove: board
 	^ nextMoves removeFirst.

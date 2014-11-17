@@ -3,12 +3,18 @@
 		 },
 	"instance" : {
 		"boardSize" : "DanielIrvine 11/16/2014 14:37",
+		"buildPlayer:basedOnButton:" : "DanielIrvine 11/17/2014 11:25",
 		"createGameSizeOptions" : "DanielIrvine 11/16/2014 19:12",
 		"createPlayButton" : "DanielIrvine 11/16/2014 14:01",
-		"initialize" : "DanielIrvine 11/16/2014 11:15",
+		"createPlayerOOptions" : "DanielIrvine 11/17/2014 11:23",
+		"createPlayerXOptions" : "DanielIrvine 11/17/2014 11:22",
+		"handleGameFinished" : "DanielIrvine 11/17/2014 11:47",
+		"initialExtent" : "DanielIrvine 11/17/2014 09:08",
+		"initialize" : "DanielIrvine 11/17/2014 09:18",
 		"initializeLayoutFrame" : "DanielIrvine 11/16/2014 11:15",
-		"initializeSetupFrame" : "DanielIrvine 11/16/2014 14:42",
-		"play" : "DanielIrvine 11/16/2014 20:34",
-		"pressed:" : "DanielIrvine 11/16/2014 17:44",
+		"initializeSetupFrame" : "DanielIrvine 11/17/2014 11:20",
+		"minimumExtent" : "DanielIrvine 11/17/2014 09:15",
+		"play" : "DanielIrvine 11/17/2014 11:46",
 		"removeCurrentBoardMorph" : "DanielIrvine 11/16/2014 13:48",
-		"update:" : "DanielIrvine 11/16/2014 13:57" } }
+		"setupEnabled:" : "DanielIrvine 11/17/2014 11:46",
+		"update:" : "DanielIrvine 11/17/2014 11:47" } }
