@@ -1,3 +1,3 @@
 timer
 stepTime
-	^ 500.
+	^ 700.
