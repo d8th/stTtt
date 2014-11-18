@@ -26,7 +26,7 @@ If you close the game window, you can open it again by following these instructi
 
 The recommended way to view the source is via Pharo itself.
 
-1. Click on the tab entitled `BoardTest` at the bottom of the Pharo window.
+1. Click on the tab entitled `BoardMorphTest` at the bottom of the Pharo window.
 2. The System Browser should appear.
 
 You can run tests and browse the source all from within this one window.
