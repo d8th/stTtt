@@ -1,4 +1,4 @@
-Tic Tac Toe in Pharo
+Tic Tac Toe in Smalltalk
 =====
 
 
