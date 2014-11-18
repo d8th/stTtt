@@ -1,6 +1,5 @@
 as yet unclassified
 testFirstButtonIsSelectedByDefault
-	|one|
-	one := group addButton: 'one'.
-	group addButton: 'two'.
-	self assert: group selected = one.
+	group addButton: 'one' withName: 'one'.
+	group addButton: 'two' withName: 'two'.
+	self assert: (group isSelected: 'one').

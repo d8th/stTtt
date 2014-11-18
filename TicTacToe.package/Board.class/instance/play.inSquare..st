@@ -4,6 +4,5 @@ play: mark inSquare: square
 	(self isFinished) ifTrue: [ ^ self ].
 	newState := ByteString fromString: state.
 	(self markAt: square) = Board unplayed
-		ifTrue: [
-			newState at: square put: mark ].
+		ifTrue: [ newState at: square put: mark ].
 	^ Board representedBy: newState.

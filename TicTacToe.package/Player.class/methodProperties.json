@@ -1,6 +1,7 @@
 {
 	"class" : {
-		"withMark:" : "DanielIrvine 11/16/2014 20:47" },
+		"withMark:" : "DanielIrvine 11/16/2014 20:47",
+		"withMark:isComputer:" : "DanielIrvine 11/18/2014 08:33" },
 	"instance" : {
 		"acceptsUserInput" : "DanielIrvine 11/17/2014 14:45",
 		"initializeWithMark:" : "DanielIrvine 11/16/2014 20:47",

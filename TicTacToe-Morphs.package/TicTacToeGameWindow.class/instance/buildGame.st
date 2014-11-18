@@ -1,6 +1,6 @@
-as yet unclassified
+building
 buildGame
 	^ game := Game
-		withPlayerX: (self buildPlayer: $X basedOnButton: xComputer)
-		andPlayerO: (self buildPlayer: $O basedOnButton: oComputer)
+		withPlayerX: (Player withMark: Board x isComputer: self isXComputer)
+		andPlayerO: (Player withMark: Board o isComputer: self isOComputer)
 		andBoard: (Board ofSize: self boardSize).

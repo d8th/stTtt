@@ -1,3 +1,3 @@
 state
 isEmpty
-	^ self allSquares size = self availableMoves size.
+	^ self numSquares = self availableMoves size.

@@ -1,8 +1,7 @@
-as yet unclassified
+initialization
 initialize
 	super initialize.
 	isStepping := false.
-	self setLabel: 'Tic Tac Toe'.
-	self initializeLayoutFrame.
-	self initializeSetupFrame.
-   self beResizeable.
+	self beResizeable;
+		setLabel: 'Tic Tac Toe';
+		addMorph: (self initializeLayoutFrame) fullFrame: ((0 @ 0 corner: 1 @ 1) asLayoutFrame).

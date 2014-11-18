@@ -1,4 +1,3 @@
-as yet unclassified
+private
 removeCurrentBoardMorph
-	layoutFrame removeMorph: currentBoardMorph.
-	currentBoardMorph = nil.
+	currentBoardMorph ifNotNil: [layoutFrame removeMorph: currentBoardMorph].

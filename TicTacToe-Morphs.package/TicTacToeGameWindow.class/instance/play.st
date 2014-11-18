@@ -1,7 +1,6 @@
 as yet unclassified
 play
-	currentBoardMorph ifNotNil: [ self removeCurrentBoardMorph ].
-	currentBoardMorph := BoardMorph withGame: self buildGame.
-	layoutFrame addMorphBack: currentBoardMorph.
+	self removeCurrentBoardMorph.
+	self createNewBoardMorph.
 	self setupEnabled: false.
-	self startStepping.
+	self startStepping

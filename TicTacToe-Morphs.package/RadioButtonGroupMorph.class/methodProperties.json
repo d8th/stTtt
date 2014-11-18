@@ -2,8 +2,9 @@
 	"class" : {
 		 },
 	"instance" : {
-		"addButton:" : "DanielIrvine 11/16/2014 19:52",
+		"addButton:withName:" : "DanielIrvine 11/18/2014 09:42",
 		"initialize" : "DanielIrvine 11/17/2014 09:10",
+		"isSelected:" : "DanielIrvine 11/18/2014 10:28",
 		"nextButtonState" : "DanielIrvine 11/16/2014 19:48",
 		"selected" : "DanielIrvine 11/16/2014 20:09",
 		"selectionChanged:" : "DanielIrvine 11/16/2014 18:38" } }

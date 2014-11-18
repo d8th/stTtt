@@ -1,11 +1,6 @@
-as yet unclassified
+initialization
 createGameSizeOptions
-	| frame |
-	
-	frame := RadioButtonGroupMorph new label: 'Size is...'.
-		
-	frame addButton: '3x3'.
-	sizeFour := frame addButton: '4x4'.
-	sizeFour name: '4x4'.
-	
-	^ frame.
+	^ RadioButtonGroupMorph new 
+		label: 'Size is...';
+		addButton: '3x3' withName: '3x3';
+		addButton: '4x4' withName: '4x4'.

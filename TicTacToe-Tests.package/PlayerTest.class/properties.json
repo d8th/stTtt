@@ -1,0 +1,14 @@
+{
+	"category" : "TicTacToe-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"player" ],
+	"name" : "PlayerTest",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

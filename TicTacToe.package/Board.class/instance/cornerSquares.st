@@ -1,3 +1,3 @@
 state
 cornerSquares
-	^ { 1 . size . (self allSquares size - size + 1) . (self allSquares size)}.
+	^ { 1 . size . (self numSquares - size + 1) . self numSquares}.
